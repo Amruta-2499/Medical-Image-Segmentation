@@ -1,0 +1,2 @@
+# Medical-Image-Segmentation
+Automatic segmentation of medical images is an important step to extract useful information that can help doctors make a diagnosis.  We have build the U-Net model for medical image segmentation and performance analysis of the model trained using limited annotated data. Main purpose of our project is to build automatic medical image segmentation model, make the system generalized and monitor the performance of the model with respect to size of dataset and number of epochs.
